@@ -109,3 +109,4 @@ That's it! Now Strapi will inform Gatsby Cloud to build your Gatsby project ever
 ![Env](/medias/gif.gif)
 
 Enjoy this starter
+# Blog-CMS
